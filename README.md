@@ -54,7 +54,7 @@ Informal traders represent approximately 30% of South Africa’s workforce but r
 To run this project locally:
 1. Clone the repository:
 ```bash
-git clone https://github.com/tendani-bit/my-marketplace.git
+git clone https://github.com/tendani-bit/my-marketplace.git ```
 
 2. Set up a local server environment, XAMPP.
 
