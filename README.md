@@ -64,7 +64,7 @@ To run this project locally:
 
 4. Launch the server 
 
-5.Open your browser and go to: http://localhost/marketplace 
+5. Open your browser and go to: http://localhost/marketplace 
 
 
 ## License
